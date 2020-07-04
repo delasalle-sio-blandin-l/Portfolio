@@ -1,0 +1,22 @@
+/* Police du site */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+.footer {
+    font-weight: 300;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer > p {
+    margin: 2rem;
+}
+
+.footer-links {
+    display: flex;
+}
+  
+.footer-links img {
+    margin-right: 25px;
+}

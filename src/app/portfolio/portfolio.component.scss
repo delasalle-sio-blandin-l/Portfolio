@@ -1,0 +1,40 @@
+/* Police du site */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+.projet1, 
+.projet2, 
+.projet3 {
+    width: 294px;
+    height: 364px;
+}
+
+.ligne1, 
+.ligne2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+
+h2, 
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    word-wrap: break-word;
+}
+
+.technologies p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.img-techno, 
+.entete {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    margin-right: 2rem;
+}

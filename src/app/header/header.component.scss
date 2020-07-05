@@ -1,0 +1,23 @@
+/* Police du site */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+ul {
+    list-style: none;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    background-image: url("https://imgur.com/YLmf2Mh.jpg");
+}
+  
+.nav-list {
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 2rem;
+}

@@ -8,11 +8,16 @@
     height: 364px;
 }
 
-.ligne1, 
+.ligne1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 250px;
+}
+
 .ligne2 {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
 }
 
 h2, 
@@ -25,7 +30,8 @@ p {
     word-wrap: break-word;
 }
 
-.technologies p {
+.technologies p, 
+.code p {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }

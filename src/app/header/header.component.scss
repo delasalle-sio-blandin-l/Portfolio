@@ -13,6 +13,10 @@ ul {
     font-family: 'Poppins', sans-serif;
     background-image: url("https://imgur.com/YLmf2Mh.jpg");
 }
+
+#navbar p {
+    color: white;
+}
   
 .nav-list {
     display: flex;
@@ -23,6 +27,6 @@ ul {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
 }

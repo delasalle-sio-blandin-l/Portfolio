@@ -8,15 +8,19 @@
     justify-content: space-between;
     font-family: 'Poppins', sans-serif;
 }
-
-.footer > p {
-    margin: 2rem;
+  
+.contact-links img {
+    margin-right: 25px;
 }
 
-.footer-links {
+.contact-links {
     display: flex;
 }
   
-.footer-links img {
-    margin-right: 25px;
+.contact-links a {
+    color: #000000;
+}
+  
+.footer > p {
+    margin: 2rem;
 }

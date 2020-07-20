@@ -17,7 +17,7 @@
 .ligne2 {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 70px;
+    margin-bottom: 250px;
 }
 
 h2, 
@@ -41,8 +41,13 @@ p {
     align-items: center;
 }
 
-.entete p {
-    background-color: blue;
+.titre {
+    display: block;
+}
+
+.titre p {
+    text-align: center;
+    background-color: #059DEA;
     border-radius: 15px;
     color: white;
 }

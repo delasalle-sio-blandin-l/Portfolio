@@ -3,7 +3,6 @@
 
 .footer {
     font-weight: 300;
-    align-items: center;
     display: flex;
     justify-content: space-between;
     font-family: 'Poppins', sans-serif;
@@ -15,6 +14,7 @@
 
 .contact-links {
     display: flex;
+    align-items: center;
 }
   
 .contact-links a {
